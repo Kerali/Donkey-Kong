@@ -26,12 +26,14 @@ look the same way as the original.
  - S Key: Climb stairs down
  - F1 Key: Show colliders
 
-## Team Members
+## Team Members & Important Links
 
  - David Montufo | [Montuuh](https://github.com/Montuuh)
- - Víctor Jara | [Kerali](https://github.com/Kerali)
+ - VÃ­ctor Jara | [Kerali](https://github.com/Kerali)
  - Ali Hassan Shahid | [FeroXx07](https://github.com/FeroXx07)
- - Martí Buxeda | [BooStar](https://github.com/BooStarGamer)
+ - MartÃ­ Buxeda | [BooStar](https://github.com/BooStarGamer)
+ 
+ [GitHup Project Page](https://github.com/Donkey-Kong)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
